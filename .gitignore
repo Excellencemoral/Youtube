@@ -1,0 +1,274 @@
+@lit-labs/ssr-dom-shim@1.1.2
+@lit/reactive-element@1.0.0-rc.4
+@lit/reactive-element@1.6.3
+lit-element@3.3.3
+lit-html@2.8.0
+lit@2.8.0
+@material/animation@14.0.0-canary.261f2db59.0
+@material/animation@14.0.0-canary.261f2db59.0
+@material/base@14.0.0-canary.261f2db59.0
+@material/dom@14.0.0-canary.261f2db59.0
+@material/feature-targeting@14.0.0-canary.261f2db59.0
+@material/ripple@14.0.0-canary.261f2db59.0
+@material/rtl@14.0.0-canary.261f2db59.0
+@material/theme@14.0.0-canary.261f2db59.0
+@material/mwc-base@0.25.3
+@material/mwc-icon-button@0.25.3
+@material/mwc-icon-button@0.25.3
+@material/mwc-ripple@0.25.3
+bazel-0.17@0.17.2
+wabt@1.0.19
+@types/trusted-types@2.0.4
+asn1js@2.4.0
+binaryen@97
+bytestreamjs@1.1.3
+chrome-bootstrap@1.5.0
+glibc-compat@0.1
+gnuconfig@20190804
+google-smart-card@1.3.10.1
+ldns@1.7.0
+mandoc@1.14.6
+mosh-chrome@0.5.6
+naclsdk@49.0.2623.87
+nerd-fonts@2.0.0
+openssh-7.8@7.8p1
+openssh-7.9@7.9p1
+openssh-8.0@8.0p1
+openssh-8.1@8.1p1
+openssh-8.2@8.2p1
+openssh-8.3@8.3p1
+openssh-8.4@8.4p1
+openssh-8.5@8.5p1
+openssh-8.6@8.6p1
+openssh-8.7@8.7p1
+openssh-8.8@8.8p1
+openssl@1.0.2k
+pkijs@2.1.97
+powerline@2.8.1
+punycode@2.3.0
+pvutils@1.1.3
+tslib@2.6.2
+wasi-sdk@12.0
+wasmtime@0.20.0
+xterm-addon-canvas@0.5.0
+xterm-addon-search@0.13.0
+xterm-addon-web-links@0.9.0
+xterm-addon-unicode11@0.6.0
+xterm-addon-webgl@0.16.0
+xterm@5.3.0
+zlib@1.2.11
+Search
+Home
+What's new
+Help
+Get started
+Use Google for Families
+Connect your Chromebook
+Manage your apps
+Customise settings
+Discover Google Assistant
+Explore accessibility
+Fix problems
+Find device support
+Contact support
+Send feedback
+Privacy  •  Terms  •  Licences
+Back
+Find device support
+About managed devices
+Get help from your Chromebook manufacturer
+If you have a problem with your Chromebook’s battery, CPU or memory, use Diagnostics to troubleshoot your issue.
+If you still have problems, contact your manufacturer with the list below.
+Showing information for the following country:United StatesArgentinaAustraliaCanadaFranceGermanyJapanMexicoNetherlandsUnited KingdomSouth KoreaSpainItalyOther
+Country
+Manufacturer
+Help page
+Telephone number
+Australia
+Acer
+Get Acer help
+1300 365 100
+Australia
+ASUS
+Get ASUS help
+1300 278 788
+Australia
+Dell
+Get Dell help
+ 
+Australia
+Hisense
+Get Hisense help
+ 
+Australia
+HP
+Get HP help
+ 
+Australia
+Lenovo
+Get Lenovo help
+ 
+Australia
+LG
+Get LG help
+
+United Arab Emirates
+United kingdom
+United States of America
+Nepal
+Australia
+Samsung
+Get Samsung help
+1300 362 603
+Australia
+Toshiba
+Get Toshiba help
+ 
+
+Get started with Chrome and ChromeOS device management
+As a business or school administrator, you can deploy enterprise or education features for Chrome users across a range of devices.
+Manage Chrome and ChromeOS devices
+Here's how you can manage Chrome and ChromeOS devices in your organisation:
+
+Manage Chrome
+From your Google Admin console, you can manage Chrome at no extra cost across:
+Windows
+Mac
+Linux
+iPhone and iPad
+Android devices
+You can also check:
+Reports for each browser's version
+Installed apps and extensions
+Enforced policies
+If you use Chromebook and want to manage Chrome from your Admin console, you can sign up for Chrome Browser Cloud Management at no extra cost today.
+Tips:
+If you’re not ready to move your organisation’s browser management to the cloud, for on-premises management you can download Chrome for Windows or Chrome for Mac.
+With several unified endpoint management (UEM) providers, you can integrate Google’s cloud management capabilities.
+
+Manage ChromeOS devices
+From your Admin console, you can manage policies on ChromeOS devices like:
+Chromebooks
+Chromeboxes
+Chromebits
+You can also:
+Install apps and extensions
+Connect devices to your VPN and Wi-Fi networks
+Manage other Chrome features
+If you already have access to the Admin console through other products like Google Workspace, please launch your Chrome Enterprise upgrade trial directly in the Admin console.
+If you’re new to the Admin console, please launch your Chrome Enterprise upgrade trial.
+Tip: If you’re already a Google Workspace for Education user interested in a trial, contact your sales representative or authorised partner for further information.
+
+Enforce 300+ corporate policies
+Whether you manage Chrome browsers, ChromeOS devices or both, you can enforce a wide range of policies:
+Allow or block apps and site URLs
+Enforce privacy and security policies
+Install and manage business apps and extensions
+Manage Chrome auto-updates
+For more details, go to Understand Chrome policy management.
+
+Try Admin console in Google Workspace or another Google product
+You can either:
+Sign up for a Google Admin account
+Set up for Chrome Enterprise upgrade trial
+Related resources
+Chrome Enterprise and Education Help Centre
+Set up Chrome Browser Cloud Management
+Order options for managing ChromeOS devices
+Set up a Chrome Enterprise upgrade trial
+
+Google, Google Workspace and related marks and logos are trademarks of Google LLC. All other company and product names are trademarks of the companies with which they are associated.
+Your Chromebook
+Tour of your Chromebox
+In this tour, we will walk you through the various hardware features of your HP Chromebox™.
+Top view 
+
+No
+Feature
+Description
+
+
+1
+USB Type-C ® power connector and SuperSpeed port with HP Sleep and Charge
+Connects an AC adapter that has a USB Type-C connector and supplies power to the computer. Also connects a USB device that has a Type-C connector, such as a cell phone, camera, activity tracker, or smartwatch, and provides data transfer. Also connects a display device that has a USB Type-C connector to provide DisplayPort™ output.
+Note: Cables and/or adapters (purchased separately) may be required.
+2
+AC adapter
+Connects the AC adapter.
+
+
+3
+HDMI ports (2)
+Connects HDMI cables to source devices such as computers or game consoles.
+
+
+4
+USB SuperSpeed port
+Connect USB cables to peripheral devices, such as a keyboard, mouse, or USB hard drive.
+
+
+5
+USB port
+Connects USB cables to peripheral devices, such as a keyboard, mouse, or USB hard drive.
+
+
+6
+RJ-45 (network) jack
+Connects a network cable.
+
+
+7
+Reset button
+To reset or recover the device, insert a paper clip (or pushpin) into the reset/recovery button hole, and then press the button.
+Note: Pressing this button with the power button deletes all account information and data stored on your Chromebox device, such as photos, downloaded files, and saved networks. HP recommends that you save files to an external hard drive, USB flash drive, or cloud storage for this reason. You can save your files to the cloud at any time by selecting the Google Drive™ location as your file save location. For more information, see your user manual.
+8
+Security lock
+Attaches an optional security cable to the computer.
+
+
+
+Front view
+
+No
+Feature
+Description
+
+
+1
+Audio-out (headphone)/Audio-in (microphone) combo jack
+Connects optional powered stereo speakers, headphones, earbuds, a headset, or a television audio cable. Also connects an optional headset microphone. This jack does not support optional microphone-only devices.
+Warning: To reduce the risk of personal injury, adjust the volume before putting on headphones, earbuds, or a headset. For additional safety information, see the Regulatory, Safety, and Environmental Notices.
+2
+USB SuperSpeed port with HP Sleep and Charge
+Connects a USB device, such as a cell phone, camera, activity tracker, or smartwatch, and provides high-speed data transfer.
+
+
+3
+USB SuperSpeed port with HP Sleep and Charge
+Connects a USB device, such as a cell phone, camera, activity tracker, or smartwatch, and provides high-speed data transfer.
+
+
+4
+microSD memory card reader
+Reads optional memory cards that store, manage, share, or access information.
+
+
+5
+Power button
+Press to turn your Chromebox on or off.
+
+
+
+Limited warranty
+You can find your HP Limited Warranty located with the user guides on your product and/or on the CD or DVD provided in the box. In some countries or regions, HP may provide a printed warranty in the box. For countries or regions where the warranty is not provided in printed format, you can request a copy from http://www.hp.com/go/orderdocuments. For products purchased in Asia Pacific, you can write to HP at POD, PO Box 161, Kitchener Road Post Office, Singapore 912006. Include your product name, and your name, phone number, and postal address.
+Contact support
+Visit http://www.hp.com/support for more information.
+More information
+Visit http://www.hp.com/support for detailed information about your product.
+ 
+© Copyright 2020 HP Development Company, L.P.
+ 
+ 
+Bluetooth is a trademark owned by its proprietor and used by HP Inc. under license. Celeron and Intel are trademarks of Intel Corporation or its subsidiaries in the U.S. and/or other countries. Chrome, Chromebook, Chromebox, and Google Drive are trademarks of Google LLC. DisplayPort™ is a trademark owned by the Video Electronics Standards Association (VESA®) in the United States and other countries. MicroSD is a trademark or registered trademark of SD-3C LLC in the United States, other countries or both.
+
+
